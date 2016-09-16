@@ -8,6 +8,7 @@
 erl_crash.dump
 
 node_modules
+priv/static/js/*_bundle.js
 
 # The config/prod.secret.exs file by default contains sensitive
 # data and you should not commit it into version control.
