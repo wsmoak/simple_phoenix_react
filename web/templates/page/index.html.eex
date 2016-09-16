@@ -19,6 +19,9 @@
     </ul>
   </div>
 
+  <div id="app"></div>
+  <script src="js/application_bundle.js"></script>
+
   <div class="col-lg-6">
     <h4>Help</h4>
     <ul>
