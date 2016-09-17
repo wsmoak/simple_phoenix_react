@@ -1,15 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-
-var HelloWorld = React.createClass({
-  render: function () {
-    return (
-      <div> Hello World from React </div>
-    )
-  }
-});
+var Main = require('./components/Main');
 
 ReactDOM.render(
-  <HelloWorld />,
+  <Main />,
   document.getElementById('app')
 );
